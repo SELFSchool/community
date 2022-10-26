@@ -4,6 +4,6 @@
   <h6>SELF School/h6>
   <h1><b>COMMUNITY</b></h1>
   <p>Community for self-directed learners. Starting point for newcomers. Gathering ground for all.</p>
-  | <a href="https://github.com/SELFSchool/notes/issues/1">README</a> | <a href="https://github.com/SELFSchool/notes/issues/1">Directory</a> | <a href="https://github.com/SELFSchool/notes/issues/1">Topics</a> |
+  | <a href="https://github.com/SELFSchool/community/issues/1">README</a> | <a href="https://github.com/SELFSchool/community/issues/1">Directory</a> | <a href="https://github.com/SELFSchool/community/issues/1">Topics</a> |
 </div>
 
