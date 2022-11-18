@@ -17,9 +17,9 @@
 |-|-|
 | [:inbox_tray: Inbox](https://github.com/SELFSchool/inbox) | [README](https://github.com/SELFSchool/inbox/issues/1)&ensp;[Directory](https://github.com/SELFSchool/inbox/issues/2)&ensp;[Topics](https://github.com/SELFSchool/inbox/issues/3)&ensp;[New]() |
 | [:sunglasses: Awesome](https://github.com/SELFSchool/awesome) | [README](https://github.com/SELFSchool/awesome/issues/1)&ensp;[Directory](https://github.com/SELFSchool/awesome/issues/2)&ensp;[Topics](https://github.com/SELFSchool/awesome/issues/3)&ensp;[New]() |
-| [:triangular_ruler: Blueprint](https://github.com/mathclimb/blueprint) |[README](https://github.com/SELFSchool/blueprint/issues/1)&ensp;[Directory](https://github.com/SELFSchool/blueprint/issues/2)&ensp;[Topics](https://github.com/SELFSchool/blueprint/issues/3)&ensp;[New]() |
-| [:incoming_envelope: Newsletter](https://github.com/mathclimb/newsletter) | [README](https://github.com/SELFSchool/newsletter/issues/1)&ensp;[Directory](https://github.com/mathclimb/newsletter/issues/2)&ensp;[Topics](https://github.com/SELFSchool/newsletter/issues/3)&ensp;[New]() |
-| [:business_suit_levitating: Job Board](https://github.com/mathclimb/jobs) | [README](https://github.com/SELFSchool/jobs/issues/1)&ensp;[Directory](https://github.com/SELFSchool/jobs/issues/2)&ensp;[Topics](https://github.com/SELFSchool/jobs/issues/3)&ensp;[New]() |
+| [:triangular_ruler: Blueprint](https://github.com/SELFSchool/blueprint) |[README](https://github.com/SELFSchool/blueprint/issues/1)&ensp;[Directory](https://github.com/SELFSchool/blueprint/issues/2)&ensp;[Topics](https://github.com/SELFSchool/blueprint/issues/3)&ensp;[New]() |
+| [:incoming_envelope: Newsletter](https://github.com/SELFSchool/newsletter) | [README](https://github.com/SELFSchool/newsletter/issues/1)&ensp;[Directory](https://github.com/mathclimb/newsletter/issues/2)&ensp;[Topics](https://github.com/SELFSchool/newsletter/issues/3)&ensp;[New]() |
+| [:business_suit_levitating: Job Board](https://github.com/SELFSchool/jobs) | [README](https://github.com/SELFSchool/jobs/issues/1)&ensp;[Directory](https://github.com/SELFSchool/jobs/issues/2)&ensp;[Topics](https://github.com/SELFSchool/jobs/issues/3)&ensp;[New]() |
 
 </div>
 
