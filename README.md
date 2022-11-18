@@ -7,3 +7,20 @@
   | <a href="https://github.com/SELFSchool/community/issues/1">README</a> | <a href="https://github.com/SELFSchool/community/issues/2">Directory</a> | <a href="https://github.com/SELFSchool/community/issues/3">Topics</a> |
 </div>
 
+#
+
+<div align="center">
+
+## Projects 
+  
+| Project | Links |
+|-|-|
+| [:inbox_tray: Inbox](https://github.com/mathclimb/inbox) | [README](https://github.com/mathclimb/inbox/issues/1)&ensp;[Directory](https://github.com/mathclimb/inbox/issues/2)&ensp;[Topics](https://github.com/mathclimb/inbox/issues/3)&ensp;[New]() |
+| [:sunglasses: Awesome](https://github.com/mathclimb/awesome) | [README](https://github.com/mathclimb/awesome/issues/1)&ensp;[Directory](https://github.com/mathclimb/awesome/issues/2)&ensp;[Topics](https://github.com/mathclimb/awesome/issues/3)&ensp;[New]() |
+| [:triangular_ruler: Blueprint](https://github.com/mathclimb/blueprint) |[README](https://github.com/mathclimb/blueprint/issues/1)&ensp;[Directory](https://github.com/mathclimb/blueprint/issues/2)&ensp;[Topics](https://github.com/mathclimb/blueprint/issues/3)&ensp;[New]() |
+| [:incoming_envelope: Newsletter](https://github.com/mathclimb/newsletter) | [README](https://github.com/mathclimb/newsletter/issues/1)&ensp;[Directory](https://github.com/mathclimb/newsletter/issues/2)&ensp;[Topics](https://github.com/mathclimb/newsletter/issues/3)&ensp;[New]() |
+| [:business_suit_levitating: Job Board](https://github.com/mathclimb/jobs) | [README](https://github.com/mathclimb/jobs/issues/1)&ensp;[Directory](https://github.com/mathclimb/jobs/issues/2)&ensp;[Topics](https://github.com/mathclimb/jobs/issues/3)&ensp;[New]() |
+
+</div>
+
+
