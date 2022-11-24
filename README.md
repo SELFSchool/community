@@ -19,7 +19,7 @@
 | [:sunglasses: Awesome](https://github.com/SELFSchool/awesome) | [README](https://github.com/SELFSchool/awesome/issues/1)&ensp;[Directory](https://github.com/SELFSchool/awesome/issues/2)&ensp;[Topics](https://github.com/SELFSchool/awesome/issues/3)&ensp;[New]() |
 | [:triangular_ruler: Blueprint](https://github.com/SELFSchool/blueprint) |[README](https://github.com/SELFSchool/blueprint/issues/1)&ensp;[Directory](https://github.com/SELFSchool/blueprint/issues/2)&ensp;[Topics](https://github.com/SELFSchool/blueprint/issues/3)&ensp;[New]() |
 | [:incoming_envelope: Newsletter](https://github.com/SELFSchool/newsletter) | [README](https://github.com/SELFSchool/newsletter/issues/1)&ensp;[Directory](https://github.com/SELFSchool/newsletter/issues/2)&ensp;[Topics](https://github.com/SELFSchool/newsletter/issues/3)&ensp;[New]() |
-| [README](https://github.com/SELFSchool/services/issues/1)&ensp;[Directory](https://github.com/SELFSchool/services/issues/2)&ensp;[Topics](https://github.com/SELFSchool/services/issues/3)&ensp;[New]() |
+| [:incoming_envelope: Newsletter](https://github.com/SELFSchool/newsletter) | [README](https://github.com/SELFSchool/services/issues/1)&ensp;[Directory](https://github.com/SELFSchool/services/issues/2)&ensp;[Topics](https://github.com/SELFSchool/services/issues/3)&ensp;[New]() |
 | [:business_suit_levitating: Job Board](https://github.com/SELFSchool/jobs) | [README](https://github.com/SELFSchool/jobs/issues/1)&ensp;[Directory](https://github.com/SELFSchool/jobs/issues/2)&ensp;[Topics](https://github.com/SELFSchool/jobs/issues/3)&ensp;[New]() |
 
 </div>
